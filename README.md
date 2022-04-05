@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mister-Biggs
+- 👋 Hi, I’m @Elijah Kariuki
 - 👀 I’m interested in networking and initiating my career as a software developer
 - 🌱 I’m currently learning C# and will then start learning Python, JavaScript, and Java
 - 💞️ I’m looking to collaborate on projects that will allow me to use my learned skills in real world applications
